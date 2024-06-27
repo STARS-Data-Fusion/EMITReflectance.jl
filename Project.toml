@@ -1,0 +1,4 @@
+name = "EMITReflectance"
+uuid = "c9913d6f-8b27-44a5-9933-4870af243957"
+authors = ["Gregory H. Halverson <gregory.h.halverson@jpl.nasa.gov>"]
+version = "0.1.0"
