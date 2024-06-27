@@ -5,4 +5,6 @@ const EMITL2ARFL_concept_ID = open(joinpath(dirname(@__FILE__), "EMITL2ARFL_conc
     read(file, String)
 end
 
+export EMITL2ARFL_concept_ID
+
 end # module EMITReflectance
