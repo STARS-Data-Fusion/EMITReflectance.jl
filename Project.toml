@@ -2,3 +2,6 @@ name = "EMITReflectance"
 uuid = "c9913d6f-8b27-44a5-9933-4870af243957"
 authors = ["Gregory H. Halverson <gregory.h.halverson@jpl.nasa.gov>"]
 version = "0.1.0"
+
+[deps]
+CMR = "8c77abda-5689-4077-b7f2-df7b4d4bda42"
