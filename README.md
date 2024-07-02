@@ -1,6 +1,6 @@
 # `EMITReflectance.jl` Julia Package
 
-The `EMITReflectance.jl` Julia package, searches, downloads, and ingests hyperspectral cubes from the Earth Surface Mineral Dust Source Investigation (EMIT) L2A Surface Reflectance.
+The `EMITReflectance.jl` Julia package will search, download, and ingest hyperspectral cubes from the Earth Surface Mineral Dust Source Investigation (EMIT) L2A Surface Reflectance.
 
 Phil Brodrick
 NASA Jet Propulsion Laboratory
